@@ -1,3 +1,3 @@
 # hello-world
 
-# write something about yourself.
+# Github Guides.
